@@ -1,8 +1,8 @@
 // Created by Vatsa Shah
 // Date modified 22-03-2020
-// For ZS case study challenge
+// For ZS case study challenge 
 // Solution for Q-3.1(a)
-
+// C++ Algorithm 
 
 #include<bits/stdc++.h>
 #define int long long int
